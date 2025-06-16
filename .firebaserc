@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "airline-6d032"
+  },
+  "targets": {
+    "airline-6d032": {
+      "hosting": {
+        "airline-6d032": [
+          "airline-6d032"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
